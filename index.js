@@ -15,9 +15,9 @@ let tareas = [
     {
         artista: "Artista: Ricardo Arjona",
         duracion: "Duracion: 3:45",
-        video: "/proyect8/recursos/videoricardoarjona.mp4",
-        audio: "/proyect8/recursos/Ricardo Arjona – Mujeres.mp3",
-        imagen: "/proyect8/recursos/ricardo.jpeg"
+        video: "videoricardoarjona.mp4",
+        audio: "/Ricardo Arjona – Mujeres.mp3",
+        imagen: "recursos/ricardo.jpeg"
     }
 ];
 
